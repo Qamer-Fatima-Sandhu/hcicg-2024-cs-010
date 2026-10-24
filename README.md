@@ -1,5 +1,4 @@
-# hcicg-2024-cs-010
-# Name: Qamer Fatima
-# Registration No. 2024-cs-010
-# ToolChain: C++, Python, WebGL
-# Course: HCI and Computer Graphics
+# HCI & Computer Graphics Lab
+- **Name:** Qamer Fatima
+- **Registration No:** <Apna Reg No likhein>
+- **Toolchain:** C++ (Visual Studio, CMake, GLFW, OpenGL)
